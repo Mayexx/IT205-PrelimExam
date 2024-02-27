@@ -1,0 +1,14 @@
+*{
+    font-family: Century Gothic;
+}
+.col{
+    background-color: rgb(211, 144, 255);
+}
+.col h1{
+    font-size: larger;
+    font-weight: bold;
+}
+#imgs{
+    height: 250px;
+    width: 50%;
+}
